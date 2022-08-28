@@ -9,5 +9,5 @@ I came across
 
 ### Solution:
 Decode base64 password first.
-Must change File Permission in /etc/mysql.
+Must change File Permission in /etc/mysql/my.cnf
 Resolved!
